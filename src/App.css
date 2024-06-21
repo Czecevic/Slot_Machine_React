@@ -25,7 +25,7 @@
   display: flex;
   flex-direction: column;
   width: 50%;
-  margin: 20% 10px;
+  height: 50px;
   align-items: center;
 }
 
@@ -54,6 +54,8 @@ h2 {
 .valuesAndTable {
   display: flex;
   width: 100%;
+  height: 420px;
+  align-items: center;
 }
 
 .tableOfElem {
